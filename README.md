@@ -4,4 +4,4 @@
 
 This repository contains projects and exercises that cover the following topics:
 
-- [ES6_basic](https://github.com/iAdamo/alx-backend-javascript/tree/main/0x00-ES6_basic)
+- [ES6_basic](https://github.com/essaket/alx-backend-javascript/tree/master/0x00-ES6_basic)
