@@ -5,5 +5,5 @@ export function uploadPhoto() {
 
 export function createUser() {
   return Promise
-    .resolve({ firtName: 'Guillaume', lastName: 'Salva' });
+    .resolve({ firstName: 'Guillaume', lastName: 'Salva' });
 }
