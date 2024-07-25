@@ -7,7 +7,7 @@ export default class Car {
 
   /* Method should return a new object of the class */
   cloneCar() {
-    const object = this.constructor;
-    return new object();
+    const Object = this.constructor;
+    return new Object();
   }
 }
