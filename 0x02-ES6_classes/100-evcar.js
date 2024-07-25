@@ -8,7 +8,6 @@ export default class EVCar extends Car {
 
   /* Returned should be an instance of Car instead of EVCar */
   cloneCar() {
-    const Car = this.constructor;
-    return new Car();
+    return new Car(this._brand, this._motor, this._color, this._range);
   }
 }
