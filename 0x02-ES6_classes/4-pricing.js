@@ -30,12 +30,12 @@ export default class Pricing {
     this._currnecy = value;
   }
 
-  /*   */
+  /* Method that returns the attributes */
   displayFullPrice() {
     return `${this._amount} ${this.currency.name} (${this.currency.code})`;
   }
 
-  /*  */
+  /* Static method that return the amount multiplied by the conversion rate */
   static convertPrice(amount, conversionRate) {
     if (typeof amount !== 'number') {
       throw new TypeError('amount must be a nmber');
