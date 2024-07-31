@@ -8,6 +8,7 @@ This repository contains projects and exercises that cover the following topics:
 - [ES6_promise](https://github.com/essaket/alx-backend-javascript/tree/master/0x01-ES6_promise)
 - [ES6_classes](https://github.com/essaket/alx-backend-javascript/tree/master/0x02-ES6_classes)
 - [ES6_data_manipulation](https://github.com/essaket/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
+- [TypeScript](https://github.com/essaket/alx-backend-javascript/tree/master/0x04-TypeScript)
 ---
 
 ## Author
