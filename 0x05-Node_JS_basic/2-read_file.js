@@ -25,12 +25,12 @@ function countStudents(path) {
       // Split the line by commas to extract individual fields (e.g., first name, field of study)
       const student = line.split(',');
       const firstName = student[0].trim(); // Get the student's first name
-      const field = student[student.length - 1].trim(); // Get the student's field of study (last column)
+      const field = student[student.length - 1].trim(); // Get student's field (last column)
 
       // Increment the total number of students
       numberOfStudents += 1;
 
-      // If the field doesn't exist in the fields object, initialize it with a count and list of first names
+      // Initialize field with count and list if it doesn't exist
       if (!fields[field]) {
         fields[field] = { count: 0, firstNames: [] };
       }
