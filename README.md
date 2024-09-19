@@ -10,6 +10,7 @@ This repository contains projects and exercises that cover the following topics:
 - [ES6_data_manipulation](https://github.com/essaket/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)
 - [TypeScript](https://github.com/essaket/alx-backend-javascript/tree/master/0x04-TypeScript)
 - [NodeJS Basics](https://github.com/essaket/alx-backend-javascript/tree/master/0x05-Node_JS_basic)
+- [Unittests in JS](https://github.com/essaket/alx-backend-javascript/tree/master/0x06-unittests_in_js)
 ---
 
 ## Author
